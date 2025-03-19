@@ -9,9 +9,6 @@ I’m passionate about leveraging **Large Language Models (LLMs)**, **Agentic AI
 
 ## 📊 My Contributions
 ![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeerajMehta15&show_icons=true&theme=dracula&count_private=true)
-![Neeraj's Streak](https://streak-stats.demolab.com?user=NeerajMehta15&theme=dracula)
-![Contribution Snake](https://github.com/NeerajMehta15/NeerajMehta15/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 🎓 Certifications
 - **Certifications**: Data Scientist & Data Scientist Associate (DataCamp)
