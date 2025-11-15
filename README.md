@@ -16,22 +16,6 @@ I bridge the gap between cutting-edge AI technology and real-world business prob
 
 ---
 
-## 🚀 Featured Projects
-
-### [CX Chatbot Agent for Stanza Living]
-Multi-agent conversational AI system built with LangChain and LangGraph for customer experience automation.
-- **Tech Stack**: LangChain, LangGraph, HuggingFace, RAG architecture, Vector databases
-- **Features**: Sophisticated agent coordination patterns, context-aware responses, memory systems
-- **Impact**: Production-ready system for handling customer queries at scale
-
-### [Agentic AI Systems from Scratch]
-Deep dive into building multi-agent systems including ReAct patterns, hierarchical coordination, and memory systems.
-- **Tech Stack**: LangChain, LangGraph, custom agent frameworks
-- **Learning Path**: Progression from basic agent concepts to sophisticated coordination patterns
-- **Implementation**: Complete agent systems before transitioning to production frameworks
-
----
-
 ## 🛠️ Technical Expertise
 
 ### Gen AI & LLM Stack
@@ -48,23 +32,6 @@ Deep dive into building multi-agent systems including ReAct patterns, hierarchic
 **Programming**: Python (Pandas, NumPy), SQL  
 **Visualization**: Power BI, Data storytelling  
 **Platforms**: Google Cloud Platform, API development
-
----
-
-## 🎓 Certifications & Learning
-
-- **Data Scientist Professional** - DataCamp (2024)
-- **Data Scientist Associate** - DataCamp
-- **Continuous Learning**: Active contributor to AI/ML open-source projects, systematic approach to emerging technologies
-
----
-
-## 📈 Current Focus
-
-- Enhancing multi-agent workflows in production CX systems
-- Implementing comprehensive MLOps practices with MLflow and Docker
-- Optimizing for Senior AI Engineer and AI Product Manager roles
-- Contributing to open-source AI/ML projects on GitHub
 
 ---
 
