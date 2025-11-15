@@ -1,21 +1,87 @@
-# 👋 Hi, I’m Neeraj Mehta
+# 👋 Hi, I'm Neeraj Mehta
 
-I’m passionate about leveraging **Large Language Models (LLMs)**, **Agentic AI**, and advanced data science to solve real-world problems. With expertise in machine learning, product development, and CX strategy, I thrive at the intersection of technology and business impact. Currently learning and building with Agentic AI systems to push the boundaries of intelligent automation.
+**Senior Manager | AI/ML Leader | Building Production Gen-AI Systems That Drive Business Impact**
 
-## 🚀 What I Bring to the Table
-- **Data Science & ML**: Expert in Python-based LLMs (Hugging Face, PyTorch, LangChain), fine-tuning models, and deploying RAG-powered solutions.
-- **Product Innovation**: Designed systems reducing complaints by 36%, boosting retention by 10% YoY, and driving $2M+ in business impact.
-- **Technical Toolkit**: Python (Pandas, Scikit-learn, NLP), SQL, Power BI, Excel—paired with a knack for actionable insights.
+I lead AI/ML initiatives that transform business operations through intelligent automation. With 10 years of experience including 3+ years in leadership roles, I specialize in deploying **Large Language Models (LLMs)**, **Agentic AI systems**, and **RAG-powered solutions** that deliver measurable outcomes. Currently at Stanza Living, I manage CS Data & Insights teams and have built Gen-AI pipelines that reduced analysis time by 90% across 350+ properties.
 
-## 📊 My Contributions
-![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeerajMehta15&show_icons=true&theme=dracula&count_private=true)
+---
 
-## 🎓 Certifications
-- **Certifications**: Data Scientist & Data Scientist Associate (DataCamp)
+## 🎯 What I Do
 
-## 🌟 Fun Facts
-- I unwind with trekking, motorbike rides, and non-fiction reads.
+I bridge the gap between cutting-edge AI technology and real-world business problems. My work spans:
 
-## 📫 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/neerajmehtaprofile)
-- Email: neerajmehta15@hotmail.com
+- **AI Product Development**: Designing and deploying multi-agent systems, RAG applications, and LLM-powered solutions that scale across hundreds of properties
+- **Analytics Leadership**: Managing cross-functional teams to deliver data-driven insights that improve customer experience and operational efficiency
+- **Business Impact**: Track record of $2M+ revenue impact, 36% complaint reduction, 30% NPS improvements, and 10% YoY retention gains
+
+---
+
+## 🚀 Featured Projects
+
+### [CX Chatbot Agent for Stanza Living]
+Multi-agent conversational AI system built with LangChain and LangGraph for customer experience automation.
+- **Tech Stack**: LangChain, LangGraph, HuggingFace, RAG architecture, Vector databases
+- **Features**: Sophisticated agent coordination patterns, context-aware responses, memory systems
+- **Impact**: Production-ready system for handling customer queries at scale
+
+### [Agentic AI Systems from Scratch]
+Deep dive into building multi-agent systems including ReAct patterns, hierarchical coordination, and memory systems.
+- **Tech Stack**: LangChain, LangGraph, custom agent frameworks
+- **Learning Path**: Progression from basic agent concepts to sophisticated coordination patterns
+- **Implementation**: Complete agent systems before transitioning to production frameworks
+
+---
+
+## 🛠️ Technical Expertise
+
+### Gen AI & LLM Stack
+**Frameworks & Tools**: LangChain, LangGraph, HuggingFace Transformers, RAG architectures, Vector databases  
+**Models**: Fine-tuning LLMs, DistilBERT, PyTorch-based models  
+**Agent Systems**: Multi-agent coordination, ReAct patterns, hierarchical workflows, memory systems
+
+### Machine Learning & MLOps
+**Core ML**: Scikit-learn, XGBoost, Classical algorithms (Logistic Regression to ensemble methods)  
+**MLOps**: MLflow, Docker, Model versioning, Experiment tracking, Deployment pipelines  
+**NLP**: Sentiment analysis, Text classification, Named entity recognition
+
+### Data Engineering & Analytics
+**Programming**: Python (Pandas, NumPy), SQL  
+**Visualization**: Power BI, Data storytelling  
+**Platforms**: Google Cloud Platform, API development
+
+---
+
+## 🎓 Certifications & Learning
+
+- **Data Scientist Professional** - DataCamp (2024)
+- **Data Scientist Associate** - DataCamp
+- **Continuous Learning**: Active contributor to AI/ML open-source projects, systematic approach to emerging technologies
+
+---
+
+## 📈 Current Focus
+
+- Enhancing multi-agent workflows in production CX systems
+- Implementing comprehensive MLOps practices with MLflow and Docker
+- Optimizing for Senior AI Engineer and AI Product Manager roles
+- Contributing to open-source AI/ML projects on GitHub
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajmehtaprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajmehta15@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeerajMehta15)
+
+---
+
+## 📊 GitHub Activity
+
+![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeerajMehta15&show_icons=true&theme=dracula&count_private=true&hide=issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajMehta15&layout=compact&theme=dracula)
+
+---
+
+*Passionate about leveraging AI to solve real-world problems. Open to collaborations on Gen-AI, LLM applications, and agentic systems.*
